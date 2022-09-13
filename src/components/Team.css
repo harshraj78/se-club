@@ -1,5 +1,59 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#team-page {
+  min-height: 100vh;
+  padding: 5rem 0;
+  width: 100%;
+  
+  background-color: var(--background-color-primary);
+  /* color: var(--text-color-primary); */
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  /* gap: 4rem; */
+}
+
+.card {
+  display: flex;
+  /* background-color: var(--background-color-secondary); */
+  min-width: 20rem;
+  min-height: 25rem;
+  border-radius: 1rem;
+  flex-direction: column;
+}
+
+.img-card {
+  border-radius: 10rem;
+  margin: 0;
+}
+
+.heading {
+  font-size: 2rem;
+  text-align: center;
+  color: var(--text-color-primary);
+  padding: 2rem 0;
+}
+
+.second-heading {
+  margin-top: 4rem;
+}
+
+.card-links {
+  margin: 0 1rem;
+  font-size: 2rem;
+  color: var(--background-color-primary);
+}
+
+@media screen and (max-width: 900px){
+  .container {
+   flex-direction: column;
   }
+ }

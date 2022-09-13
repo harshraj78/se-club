@@ -1,5 +1,24 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-  }
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+ 
+  --font-poppins: "Poppins", sans-serif;
+  --font--roboto-mono: "Roboto Mono", monospace;
+  
+  /* --text-color-primary: #333335; */
+  --text-color-primary: #f1fff3;
+  /* --text-color-primary: #ffecec; */
+  /* --background-color-primary: #fff7f7;
+  --accent-color-primary: #FB4040; */
+  --background-color-primary: #121212;
+  --background-color-secondary: #08bd41;
+  --accent-color-primary: #FB4040;
+}
+
+body {
+  background-color: var(--background-color-primary);
+  color: var(--text-color-primary);
+  z-index: 2;
+}

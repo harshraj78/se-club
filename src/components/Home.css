@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }  
+
+#home-page {
+    height: 100vh;
+    /* background: url(../assets/images/sec-homepage.jpg); */
+    /* background-size: 100vw; */
+  }
+
+#hp-id {
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* @media screen and (max-width: 900px){
+  #hp-id {
+    object-fit: cover;
+  }
+} */

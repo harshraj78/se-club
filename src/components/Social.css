@@ -1,5 +1,38 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-  }
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.social {
+  background-color: #121212;
+  color: var(--text-color-primary);
+  position: relative;
+  z-index: 10 !important;
+  min-width: 100%;
+  padding: 3rem 0.5rem;
+}
+
+.social h3 {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  color: var(--text-color-secondary);
+}
+
+.social .social-media a {
+  text-decoration: none;
+  padding: 2px;
+}
+
+.social .social-media a .icon {
+  font-size: 2rem;
+  color: var(--text-color-primary);
+  margin: 8px 18px;
+}
+
+.social .social-media a .icon:visited,
+.social .social-media a .icon:hover,
+.social .social-media a .icon:active {
+  color: var(--accent-color-primary);
+}
