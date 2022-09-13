@@ -1,5 +1,13 @@
 import React from 'react';
 import './Team.css';
+// import naman from "../assets/images/naman.jpeg" ak pls import yourself :))
+import naman from "../assets/images/naman.jpeg"
+import shruti from "../assets/images/shruti.jpg"
+import shivangi from "../assets/images/shivangi.jpg"
+import gauri from "../assets/images/gauri.JPG"
+import prince from "../assets/images/Prince.png"
+
+
 
 function Team() {
   return (
@@ -9,7 +17,7 @@ function Team() {
       </div>
       <div className='container'>
         <div className="card text-center">
-          <img className="card-img-top img-card" src="https://cdn2.vectorstock.com/i/1000x1000/98/11/girl-icon-flat-single-avatarpeaople-icon-from-vector-14449811.jpg" alt="Card image cap" height={300} width={15} />
+          <img className="card-img-top img-card" src={shivangi} alt="Card image cap" height={300} width={15} />
           <div className="card-body">
             <h5 className="card-title">PRESIDENT</h5>
             <p className="card-text">Shivangi Pathak</p>
@@ -25,7 +33,7 @@ function Team() {
         </div>
 
         <div className="card text-center">
-          <img className="card-img-top img-card" src="https://cdn2.vectorstock.com/i/1000x1000/98/11/girl-icon-flat-single-avatarpeaople-icon-from-vector-14449811.jpg" alt="Card image cap" height={300} width={15} />
+          <img className="card-img-top img-card" src={prince} alt="Card image cap" height={300} width={15} />
           <div className="card-body">
             <h5 className="card-title">VICE-PRESIDENT</h5>
             <p className="card-text">Prince Sindhu</p>
@@ -41,7 +49,7 @@ function Team() {
         </div>
 
         <div className="card text-center">
-          <img className="card-img-top img-card" src="https://cdn2.vectorstock.com/i/1000x1000/98/11/girl-icon-flat-single-avatarpeaople-icon-from-vector-14449811.jpg" alt="Card image cap" height={300} width={15} />
+          <img className="card-img-top img-card" src={gauri} alt="Card image cap" height={300} width={15} />
           <div className="card-body">
             <h5 className="card-title">GENERAL SECRETARY</h5>
             <p className="card-text">Gauri Gupta</p>
@@ -78,7 +86,8 @@ function Team() {
         </div>
 
         <div className="card text-center">
-          <img className="card-img-top img-card" src="https://cdn2.vectorstock.com/i/1000x1000/98/11/girl-icon-flat-single-avatarpeaople-icon-from-vector-14449811.jpg" alt="Card image cap" height={300} width={15} />
+          <img className="card-img-top img-card" src={naman} alt="Card image cap" height={300} width={15} />
+          {/* <img src = {require("../images/songsillu.png")} id = "songsillu" alt = 'nfsbg' /> */}
           <div className="card-body">
             <h5 className="card-title">TECHNICAL LEAD</h5>
             <p className="card-text">Naman Gaur</p>
@@ -94,7 +103,7 @@ function Team() {
         </div>
 
         <div className="card text-center">
-          <img className="card-img-top img-card" src="https://cdn2.vectorstock.com/i/1000x1000/98/11/girl-icon-flat-single-avatarpeaople-icon-from-vector-14449811.jpg" alt="Card image cap" height={300} width={15} />
+          <img className="card-img-top img-card" src={shruti} alt="Card image cap" height={300} width={15} />
           <div className="card-body">
             <h5 className="card-title">MANAGEMENT LEAD</h5>
             <p className="card-text">Shruti Gupta</p>
