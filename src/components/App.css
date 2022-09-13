@@ -14,9 +14,8 @@
   --accent-color-primary: #FB4040; */
   --background-color-primary: #121212;
   --background-color-secondary: #08bd41;
-  --accent-color-primary: #FB4040;
+  --accent-color-primary: #0fe786;
 }
-
 body {
   background-color: var(--background-color-primary);
   color: var(--text-color-primary);
