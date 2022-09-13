@@ -5,7 +5,7 @@
 }
 
 .social {
-  background-color: #121212;
+  background-color: #212529;
   color: var(--text-color-primary);
   position: relative;
   z-index: 10 !important;

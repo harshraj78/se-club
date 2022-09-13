@@ -22,6 +22,10 @@
   gap: 4rem;
 }
 
+.h3-text {
+  color: var(--accent-color-primary);
+}
+
 .carda {
   display: flex;
   background-color: var(--background-color-secondary);

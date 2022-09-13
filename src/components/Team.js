@@ -1,6 +1,6 @@
 import React from 'react';
 import './Team.css';
-// import naman from "../assets/images/naman.jpeg" ak pls import yourself :))
+import akanksha from "../assets/images/akanksha2.jpg" 
 import naman from "../assets/images/naman.jpeg"
 import shruti from "../assets/images/shruti.jpg"
 import shivangi from "../assets/images/shivangi.jpg"
@@ -70,7 +70,7 @@ function Team() {
       </div>
       <div className='container'>
         <div className="card text-center">
-          <img className="card-img-top img-card" src="https://cdn2.vectorstock.com/i/1000x1000/98/11/girl-icon-flat-single-avatarpeaople-icon-from-vector-14449811.jpg" alt="Card image cap" height={300} width={15} />
+          <img className="card-img-top img-card" src={akanksha} alt="Card image cap" height={300} width={15} />
           <div className="card-body">
             <h5 className="card-title">EVENT LEAD</h5>
             <p className="card-text">Akanksha Kushwaha</p>

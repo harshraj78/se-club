@@ -17,7 +17,7 @@ function About() {
         </div>
         <div className='carda text-white bg-dark'>
             <h3 className='h3-text'>What We've Achieved</h3>
-            <p className='p-text'>We have successfully organised several events, competitions and webinars. Apart from this our club has a wholesome environment where students can enhance not just their technical skills, but also their writing, speaking and designing skills.</p>
+            <p className='p-text'>We have successfully organised several events, competitions and webinars. Apart from this, our club has a wholesome environment where students can enhance not just their technical skills, but also their writing, speaking and designing skills.</p>
         </div>
       </div>
 
