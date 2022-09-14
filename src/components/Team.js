@@ -23,11 +23,8 @@ function Team() {
             <p className="card-text">Shivangi Pathak</p>
           </div>
           <div className="card-body">
-            <a href="https://www.linkedin.com/" target="_blank">
+            <a href="https://www.linkedin.com/in/shivangipathak28/" target="_blank">
               <div className="card-links icon fab fa-linkedin-in"></div>
-            </a>
-            <a href="https://www.github.com/" target="_blank">
-              <div className="card-links icon fab fa-github"></div>
             </a>
           </div>
         </div>
@@ -39,10 +36,10 @@ function Team() {
             <p className="card-text">Prince Sindhu</p>
           </div>
           <div className="card-body">
-            <a href="https://www.linkedin.com/" target="_blank">
+            <a href="https://www.linkedin.com/in/prince-sindhu/" target="_blank">
               <div className="card-links icon fab fa-linkedin-in"></div>
             </a>
-            <a href="https://www.github.com/" target="_blank">
+            <a href="https://github.com/XOPRINCEXO" target="_blank">
               <div className="card-links icon fab fa-github"></div>
             </a>
           </div>
@@ -55,11 +52,8 @@ function Team() {
             <p className="card-text">Gauri Gupta</p>
           </div>
           <div className="card-body">
-            <a href="https://www.linkedin.com/" target="_blank">
+            <a href="https://www.linkedin.com/in/gauri-gupta-98a64119b/" target="_blank">
               <div className="card-links icon fab fa-linkedin-in"></div>
-            </a>
-            <a href="https://www.github.com/" target="_blank">
-              <div className="card-links icon fab fa-github"></div>
             </a>
           </div>
         </div>
@@ -76,10 +70,10 @@ function Team() {
             <p className="card-text">Akanksha Kushwaha</p>
           </div>
           <div className="card-body">
-            <a href="https://www.linkedin.com/" target="_blank">
+            <a href="https://www.linkedin.com/in/akankshakushwaha/" target="_blank">
               <div className="card-links icon fab fa-linkedin-in"></div>
             </a>
-            <a href="https://www.github.com/" target="_blank">
+            <a href="https://www.github.com/aku1310" target="_blank">
               <div className="card-links icon fab fa-github"></div>
             </a>
           </div>
@@ -93,10 +87,10 @@ function Team() {
             <p className="card-text">Naman Gaur</p>
           </div>
           <div className="card-body">
-            <a href="https://www.linkedin.com/" target="_blank">
+            <a href="https://www.linkedin.com/in/naman-gaur-054b581aa/" target="_blank">
               <div className="card-links icon fab fa-linkedin-in"></div>
             </a>
-            <a href="https://www.github.com/" target="_blank">
+            <a href="https://www.github.com/namangaur2" target="_blank">
               <div className="card-links icon fab fa-github"></div>
             </a>
           </div>
@@ -109,10 +103,10 @@ function Team() {
             <p className="card-text">Shruti Gupta</p>
           </div>
           <div className="card-body">
-            <a href="https://www.linkedin.com/" target="_blank">
+            <a href="https://www.linkedin.com/in/shruti-gupta-36244b1b6//" target="_blank">
               <div className="card-links icon fab fa-linkedin-in"></div>
             </a>
-            <a href="https://www.github.com/" target="_blank">
+            <a href="https://www.github.com/shru1032" target="_blank">
               <div className="card-links icon fab fa-github"></div>
             </a>
           </div>

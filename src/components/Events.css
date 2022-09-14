@@ -1,5 +1,93 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-  }
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#event-page {
+  min-height: 100vh;
+  width: 100%;
+  background-color: var(--background-color-primary);
+}
+
+.event-heading {
+  font-size: 2rem;
+  text-align: center;
+  color: var(--text-color-primary);
+  padding: 2rem 0;
+}
+
+/* .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 4rem;
+} */
+
+.previous-event {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  gap: 2rem;
+}
+
+.h3-text {
+  color: var(--accent-color-primary);
+}
+
+.h3-text .h2-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.event-cards {
+  height: 30rem;
+}
+
+.carda {
+  display: flex;
+  background-color: var(--background-color-secondary);
+  width: 20rem;
+  height: 25rem;
+  border-radius: 1rem;
+  flex-direction: column;
+  transition: all 0.3s;
+}
+
+.carda .h3-text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  
+}
+
+.carda .p-text{
+  text-align: center;
+  margin: 0 2.5rem;
+}
+
+@media screen and (max-width: 900px){
+ .containera {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+ }
+
+ .previous-event{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ }
+}
+
+.carda:hover{
+  box-shadow: 0rem 0rem 1rem #0fe786;;
+}
+

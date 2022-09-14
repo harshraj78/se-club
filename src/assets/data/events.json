@@ -1,0 +1,69 @@
+[{
+    "id": 1,
+    "name": "Enhancing Digitial World Security By Breaking it Ethically",
+    "path": "1.jpeg",
+    "speaker": "Paras Arora"
+},
+{
+    "id": 2,
+    "name": "UI/UX Design",
+    "path": "3.jpeg",
+    "speaker": "Bikiron Bara" 
+},
+{
+    "id": 3,
+    "name": "Roadmap To Coding & Web Development",
+    "path": "4.jpeg",
+    "speaker": "Praveen Kumar Purushothaman"
+
+},
+{
+    "id": 4,
+    "name": "Hacktoberfest '21",
+    "path": "5.jpeg",
+    "speaker": "Vinit Shahdeo, Dev Valecha, Aman Kumar" 
+
+},
+{
+    "id": 5,
+    "name": "Open Source and GSoC",
+    "path": "6.jpg",
+    "speaker": "Harsh Bardhan Mishra" 
+
+},
+{
+    "id": 6,
+    "name": "Getting Started With Competitive Coding",
+    "path": "7.jpg",
+    "speaker": "Prateek Narang" 
+
+},
+{
+    "id": 7,
+    "name": "Workshop On Full Stack Development",
+    "path": "12.jpeg",
+    "speaker": "Siddhant Pradhan"
+
+},
+{
+    "id": 8,
+    "name": "Recon In Cyber Security",
+    "path": "13.jpeg",
+    "speaker": "Abhijeet Singh"
+
+},
+{
+    "id": 9,
+    "name": "Hands-On App Development",
+    "path": "15.jpg",
+    "speaker": "Nitin Prakash"
+
+},
+{
+    "id": 10,
+    "name": "Decrypt It",
+    "path": "16.jpg"
+
+}
+
+]
