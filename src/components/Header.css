@@ -21,12 +21,13 @@ header .navbar .container .navbar-brand,
 
 .header .navbar .container {
   padding: 0rem;
+  display: flex;
+  flex-direction: row;
 }
 
 .header {
   z-index: 10;
   position: fixed;
-
 }
 
 .nav-right {
