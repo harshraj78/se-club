@@ -18,7 +18,6 @@ function Header() {
               className="d-inline-block align-center"
               alt="SEC Logo"
             />
-            Software Engineering Club
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
