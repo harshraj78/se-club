@@ -6,6 +6,7 @@ import Landing from './Landing';
 import Social from './Social';
 import Team from './Team';
 import Events from './Events';
+import Footer from './Footer';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Events />
       <Team />
       <Social />
+      <Footer />
     </div>
   );
 }

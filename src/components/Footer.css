@@ -3,3 +3,15 @@
     margin: 0;
     box-sizing: border-box;
   }
+.main-footer{
+  color: white;
+  background-color: var(--background-color-primary);
+  padding-top: 3em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+.containers{
+  width: 100%;
+  text-align: center;
+}
