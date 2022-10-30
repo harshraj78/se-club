@@ -9,7 +9,7 @@ function Footer() {
         <hr/>
         <div className="row">
           <p className="col-sm">
-            &copy;{new Date().getFullYear()} Software Engineering Club | All Rights Reserved 
+            &copy;{new Date().getFullYear()} Software Engineering Club | Made with ❤️ by SEC
           </p>
         </div>
       </div>
