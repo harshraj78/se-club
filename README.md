@@ -1,3 +1,41 @@
+<h1 align="center">
+	SOFTWARE ENGINEERING CLUB
+</h1>
+
+<h3 align="center">
+	Department of CSE, Amity University, Noida. Our club aims to increase awareness among students and guide them about the opportunities and advancements. For this, we host webinars, events, quizzes, competitions like this one and much more.
+</h3>
+
+<h4 align="center">
+	Status: 🚧 In Construction
+</h4>
+
+<p align="center">
+	<a href="#about">About</a> •
+	<a href="#tech-stack">Tech Stack</a> •
+	<a href="#contact">Contact</a> 
+</p>
+
+## About
+We expose a diverse body of Computer Science students to emerging technologies and concepts employed by the software development industry, encouraging the development of skills through a highly collaborative, project-based approach. This jump-starts our members’ careers by reinforcing their preparedness for technical interviews, internships, jobs, hackathons, and personal projects.
+
+We conduct events for the student to make them motivated toward the technical demand and we aware them about latest technology and help them master new skills.
+
+## Tech Stack
+<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
+
+## Contact
+<a href="https://www.linkedin.com/in/amity-seclub" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+
+<br clear="left"/>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
